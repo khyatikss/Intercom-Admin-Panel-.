@@ -4,6 +4,9 @@
 This project is a responsive clone of Intercom's AI-enhanced admin panel built using ReactJS and Tailwind CSS. It replicates the UI and core functionalities shown in the demo video, focusing on a clean, intuitive user experience with responsive design and smooth animations.
 
 ---
+## 🖼️ Screenshot
+![UI Screenshot](https://github.com/khyatikss/Intercom-Clone---AI-Enhanced-Admin-Panel/blob/main/UI.png?raw=true)
+
 
 ## 🌐 Live Demo
 Try the live app here:  
@@ -31,21 +34,12 @@ Try the live app here:
 - Smooth transitions and animations enhancing UX
 - Fully responsive for desktop and mobile views
 
-  
-##  Getting Started
+## 🚀 Getting Started
 ```bash
 git clone https://github.com/khyatikss/intercom-clone.git
 cd intercom-clone
 npm install
 npm run dev
 
-
-
-
-
-
-
-
-## 📝 License
-
+## License
 This project is licensed under the MIT License.
