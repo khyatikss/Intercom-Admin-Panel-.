@@ -31,6 +31,14 @@ Try the live app here:
 - Smooth transitions and animations enhancing UX
 - Fully responsive for desktop and mobile views
 
+  
+##  Getting Started
+```bash
+git clone https://github.com/khyatikss/intercom-clone.git
+cd intercom-clone
+npm install
+npm run dev
+
 
 
 
